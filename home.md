@@ -1,4 +1,4 @@
-# Escape the Doors  
+# Escape the Doors
 ## It’s Halloween. You arrived at a three door house for candies. Which door do you choose?
 
 [Door 1](door1.md)
