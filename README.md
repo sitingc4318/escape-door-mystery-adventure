@@ -1,4 +1,6 @@
-# Escape the Doors
+# Choose Your Own Adventure
+## Escape the Doors
+
 
 The purpose of this project is to practice linking multiple files, handle merge conflicts, and acquire collaboration skills.
 
